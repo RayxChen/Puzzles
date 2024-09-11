@@ -1,6 +1,7 @@
 #include <vector>
 
 using namespace std;
+typedef long long ll;
 
 class Solution {
 public:
